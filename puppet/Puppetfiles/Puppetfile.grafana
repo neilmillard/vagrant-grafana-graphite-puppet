@@ -1,0 +1,7 @@
+
+# role specific
+mod 'dwerder/graphite', '7.0.0'
+mod 'bfraser-grafana', '2.5.0'
+mod 'puppetlabs-apache', '1.11.0'
+exclusion 'spiette-selinux'
+mod 'puppet-selinux', '0.5.0'

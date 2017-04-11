@@ -1,0 +1,1 @@
+# vagrant-grafana-graphite-puppet
